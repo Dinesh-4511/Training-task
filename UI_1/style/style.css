@@ -1,0 +1,101 @@
+body{
+    background-color: white;
+    color: white;
+}
+h1{
+    text-align: center;
+    padding-right:3%;
+}
+h3{
+    text-align: center;
+    padding-top: 1%;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.flex-container_1{
+    display: flex;
+    flex-direction: row;
+    padding-top:3%;
+    }
+.flex-container_2{
+        display: flex;
+        flex-direction: row;
+        padding-top:3%;
+     }
+.flex-container_3{
+        display: flex;
+        flex-direction: row;
+        padding:0%;
+        margin-bottom:0%;
+     }
+.flex-container_4{
+        display: flex;
+        flex-direction: row;
+        padding-top:3%;
+     }
+.numbers{
+    padding-bottom:7%;
+}
+.input-group {
+    display:flex;
+    flex-direction:column; 
+}
+.Hospital{
+    display: flex;
+    justify-content: center;
+    background-color: #3c576c;
+    width:75;
+}
+.field{
+padding-bottom:5%;
+ padding-right:50px;
+}
+input{
+    background-color: #3c576c;
+    
+    border-bottom:2px solid white;
+    border-left:none;
+    border-right:none;
+    border-top: none;
+    outline:0px;
+}
+input[type="date"]{
+    width:162px;
+    padding:4%;
+}
+input[type="email"]{
+   
+    padding:4%;
+}
+.legal{
+    width:94%;
+    padding:3%;
+   
+
+}
+label{
+    font-size:100%;
+}
+h5{
+    padding-bottom:1%;
+}
+.health{
+    background-color: #3c576c;
+    width:45%;
+    height:50%;
+    margin-left: auto;
+    margin-right: auto; 
+    padding-bottom: 3%;
+
+}
+
+
+
+
+  
+ 
+  
+ 
