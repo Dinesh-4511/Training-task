@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+    text-align: center;
+    margin-top:18%;
+}
+.total{
+    border:3px solid grey;
+    width:45%;
+    height:180px;
+    margin-left:27%;
+    border-radius:8px;
+}
+button{
+    margin-top:5%;
+}
+#submit{
+    height:20%;
+}

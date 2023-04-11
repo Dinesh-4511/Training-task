@@ -1,0 +1,11 @@
+.value{
+    margin-top:20px;
+}
+#Empty{
+    font-weight: bold;
+    margin-top: 10px;
+    color:red;
+}
+.vowel{
+    color: green;
+}

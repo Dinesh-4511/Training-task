@@ -1,0 +1,53 @@
+body{
+     margin-top:20%;
+    background-color: black;
+    color:white;
+}
+.whole{
+    text-align: center;
+   border: 5px ridge white;
+   height:50%;
+   width:40%;
+  margin-left:30%;
+  background-color: gray;
+  
+}
+h2{
+    color:black;
+}
+#empty{
+    margin-top: 20px;
+    color:red;
+    font-weight: bold;
+}
+.Addbutton{
+    margin-top:20px;
+}
+#add{
+    margin-right:15px;
+    width:11%;
+}
+.box{
+    margin-top:15px;
+}
+#output{
+    width:27%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

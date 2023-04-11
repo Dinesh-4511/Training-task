@@ -1,0 +1,46 @@
+.currenttime{
+    display: flex;
+    flex-direction: row;
+}
+body{
+    margin: auto;
+    padding-left:25%;
+    background-image: linear-gradient(lightblue,white);
+    background-repeat: no-repeat;
+}
+.margin{
+    margin-left:7px;
+}
+.total{
+    padding-bottom:3%;
+    padding-left:10%;
+    margin-top:15%;
+    border: 2px solid grey;
+    width:50%;
+    height: 50%;
+    border-radius:10px;
+}
+.time{
+    width: 30px;
+    height: 20px;
+    padding:0px 8px;
+    margin:8px 8px;
+    border: 2px solid black;
+}
+.symbol{
+    margin-top:5px;
+    font-size:25px;
+}
+.year1{
+    margin-left:9px;
+}
+.year2{
+    margin-left:32px;
+}
+.year6{
+    margin-left:10px;
+}
+.zone{
+    margin-top:20px;
+    font-weight: bold;
+}

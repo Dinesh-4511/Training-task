@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+    margin-top:20%;
+    text-align: center;
+    font-size: 120%;
+}
+.submit{
+    text-align: center;
+}
+button{
+    width:15%;
+    height:10%;
+}

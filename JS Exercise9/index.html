@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>To get Current date and time</title>
+    <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+    <div class="total">
+        <h2>Click the button to see the time.</h2>
+        <button id="addition" type="button" onclick="myfunc()" class="margin">SHOW</button>
+        <h2 class="margin">Current IST Time </h2>
+        <div class="currenttime">
+            <div class="time" id="year">0</div><span class="symbol">/</span>
+            <div class="time" id="month">0</div><span class="symbol">/</span>
+            <div class="time" id="date">0</div><span class="symbol">--</span>
+            <div class="time" id="hours">0</div><span class="symbol">:</span>
+            <div class="time" id="minutes">0</div><span class="symbol">:</span>
+            <div class="time" id="seconds">0</div><span class="symbol">:</span>
+            <div class="time" id="milli">0</div>
+        </div>
+        <div>
+            <span class="year1">Year</span>
+            <span class="year2">Month</span>
+            <span class="year2">Date</span>
+            <span class="year2">Hours</span>
+            <span class="year2">Minutes</span>
+            <span class="year6">Seconds</span>
+            <span class="year6">MilliSeconds</span>
+        </div>
+        <div class="margin">
+          <div id="time" class="zone"></div>
+            <div class="container">
+                <div id="DateTime" class="dateTime result"></div>
+                <div id="utcTime" class="dateTime result"></div>
+                <div id="utcMilliSeconds" class="dateTime result"></div>
+            </div>
+        </div>
+    </div>
+    <script src="script/script.js"></script>
+</body>
+</html>

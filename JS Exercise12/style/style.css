@@ -1,0 +1,40 @@
+body{
+    background-color: bisque;
+}
+.total{
+    text-align: center;
+    margin-top: 20%;
+    border: 2px solid black;
+    height:35%;
+    width:50%;
+    margin-left:25%;
+    background-color:gray;
+    color:white;
+}
+#empty{
+    margin-top:2%;
+    color: red;
+    font-size:120%;
+}
+.flex{
+   display: flex;
+   margin-left:40%;
+}
+#valueempty{
+    margin-left:4%;
+}
+input{
+    height:10%;
+    width:60%;
+    margin-top:3%;
+}
+button{
+    margin-top:5%;
+    height:15%;
+    width:20%;
+
+}
+b{
+   text-decoration: underline;
+   color:black;
+}
